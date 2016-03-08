@@ -2,8 +2,8 @@
 ### Increase Your productivity using the command-line todo app.
 #### One File. One Terminal. Complete todo-list.
 ##### Get started with simple, easy steps!
-1. In order to use the Ruby todo app in the terminal, make sure to have ruby installed.
-  1.1. To install RVM, type this in your terminal
+1. In order to use the Ruby todo app in the terminal, make sure to have ruby installed.  
+	a. To install RVM, type this in your terminal
   	`$ \curl -L https://get.rvm.io | bash -s stable`
   1.2. Close your terminal and then re-open it. Now, lets see if RVM was loaded properly:
   	> $ rvm | head -n 1
