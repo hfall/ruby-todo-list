@@ -18,3 +18,26 @@
 
 ![](images/start-todo.png)  
 
+#### Save your new list of tasks  
+
+3. Follow the instructions. Once all tasks have been made, it's recommended to save the  
+   list of tasks using "steps 4"
+	- naming a file that doesn't exist will be created for you within the same directory.  
+	![](images/writelist.png)  
+
+	![](images/newlist.png)  
+
+	- You list is saved into a new file. Either open it in TextEdit or other text editors  
+	_Here's an example of how I set up mine_
+	![](images/desktop.png)  
+
+	![](images/textedit.png)  
+
+#### You can read the tasks from your existing file  
+
+#### Additional Note:  
+
+**That's it! You're ready to be more productive with this ruby-terminal doto app.**
+
+_This is an open source app that can be modified/customized by the user._
+
