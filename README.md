@@ -7,14 +7,14 @@
 	a. To install RVM, type this in your terminal  
   	`$ \curl -L https://get.rvm.io | bash -s stable`  
   	b. Close your terminal and then re-open it. Now, lets see if RVM was loaded properly:  
-  	`$ rvm | head -n 1`
-  1.3. Now install Ruby with: 
-  	> $ rvm use ruby --install --default
-	> $ ruby -v
+  	`$ rvm | head -n 1`  
+  	c. Now install Ruby with:  
+  		1) $ rvm use ruby --install --default  
+		2) $ ruby -v  
 
-2. Download the todo.rb file
+2. Download the todo.rb file  
   a. Put file in any directory(preferably desktop)
   b. Open todo.rb through terminal using "ruby todo.rb". The app will run and display options
 
-![]('images/start-todo.png')  
+![](images/start-todo.png)  
 
