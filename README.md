@@ -28,6 +28,7 @@
 	![](images/newlist.png)  
 
 	- You list is saved into a new file. Either open it in TextEdit or other text editors  
+	
 	_Here's an example of how I set up mine_
 	![](images/desktop.png)  
 
